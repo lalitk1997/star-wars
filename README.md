@@ -1,5 +1,4 @@
-# star-wars
-# Searchbar
+# star-wars-searchbar
 
 Hello everyone, here is my Star Wars characters searching app project which I builded in unit-3.
 
